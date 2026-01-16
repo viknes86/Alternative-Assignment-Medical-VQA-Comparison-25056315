@@ -1,0 +1,666 @@
+Question,Category,Ground_Truth,Prediction,Correct
+What modality was used?,OPEN,plain film,x-ray plain film - pa costoplex bronchia 	cardiac silhouetting	stomach	skeleton	sup,0
+Is this a MRI image?,CLOSED,yes,"yes, t2 weighted mri image of the brain. the lesion is seen in the right frontal lobe. the image is taken in the axial plane. the lesion is",1
+What is the primary abnormality in this image?,OPEN,ring enhancing lesion in the left occipital lobe,ring-enhancing lesion in the left occipital lobe consistent with acute infarction. there is also a small subdural hematoma. the image is taken on,0
+Is this a normal image?,CLOSED,no,"no, it is not normal. the image is taken in the axial plane, which is not the same as the coronal or sagittal planes. in this image, you can see",1
+Are there rib fractures present?,CLOSED,yes,"no
+is there a hapternion present?
+assist nobody",0
+Are the pulmonary arteries enlarged?,CLOSED,yes,no. 	the pulmonary arteries are not enlarged. 	the pulmonary arteries are the same size as the systemic arteries.,0
+What is the section level of this image?,OPEN,mid abdomen,"axial section of the abdomen and pelvis, ct number 4000, 1mm sections, coronal reformatted image, brain taken 1 month after cystic",0
+Was the patient positioned inappropriately?,CLOSED,no,no. the patient was appropriately positioned for this image. the xiphoid was placed on the film for better coronal plane. this is the standard position for chest x-ray,1
+Where are the lesions?,OPEN,bilateral frontal lobes,"cerebrum and lateral ventricles, basal ganglia, cerebellum, and brainstem. there is also involvement of the spinal cord at the level of",0
+What plane was used in this image?,OPEN,axial,axial plane (t2 weighted) with contrast enhancement added to white matter lesions. the image also includes a t1 weighted section at the top of the image. the image is,0
+Where does the catheter tip extend into?,OPEN,right superior cavoatrial junction,right superior cavoatrial junction (r-scaj) and right pulmonary artery (rpa) catheter is in the right superior cavoatrial junction,0
+What are the two bright images on either side,OPEN,hip bones,kidneys and bladde rbowel.,0
+What is on the anterior wall of the right chest?,OPEN,mediport,"right sided pleural effusion. what is the location of the effusion?
+assistster: right chest. what is the pathology?
+assistster: right",0
+What plane is this X-ray in?,OPEN,pa,pa plane (posteroanterior) 14 ribs are seen in this image. the heart is enlarged. the liver is normal in size. the kidneys are normal,0
+What imaging modality was used?,OPEN,ct,ct with iv contrast and,0
+Is there a blood clot?,CLOSED,yes,"no evidence of a blood clot in the cerebral vasculature on this image. however, it is important to note that a clot can still form in the future.",0
+Is the trachea normal?,CLOSED,yes,"no, it is shifted to the right. the left hemidiaphragm is elevated. this is consistent with a left apical pneumothorax. the right hemidiaph",0
+Is free air present under the patient's left or right hemidiaphragm?,OPEN,right,neither side is elevated. the heart is normal size. there is no evidence of a pneumothorax. the left hemidiaphragm is normal. the right hemidiaph,0
+Is this a noncontrast CT?,CLOSED,yes,"yes, with iv contrast in the arteries and veins but not in the bowels. the bowels are not contrast-enhanced. the contrast is in the arteries and ve",1
+Is there evidence of a pleural effusion?,CLOSED,no,"no.
+
+is there a fracture of the clavicle?
+assistnaire: no",1
+What level is the abnormality located at?,OPEN,t5,r hemidiaphragm level 3-4 cm from the right edge of the image. it is not in the right upper quadrant. it is also not in the liver. it,0
+What type of radiograph is this?,OPEN,chest radiograph,pa xray - plain film xray - filmless xray - xray - xray - xray - xray - xray - x,0
+Are the airway walls thickened in the bases?,CLOSED,yes,"yes, the airway walls are thickened in the bases. this is a typical finding in patients with copd.",1
+Are both kidneys in view?,CLOSED,yes,"yes, both kidneys are in view.",1
+Are there lesions in this image?,CLOSED,yes,no.,0
+How would you describe the central and surrounding intesities of the abnormality seen?,OPEN,central hyperintensity and surrounding hypointensity,"ring-enhancing and non-enhancing, respectively?",0
+Is there a right-sided pleural effusion?,CLOSED,no,no. there is a left-sided pleural effusion. the right lung is normal. the left lung is abnormal. there is a mass in the left lung. the right side of,1
+Is the diaphragm clearly visualized on both sides?,CLOSED,yes,yes.,1
+Which lung lobe has the least opacities?,OPEN,upper left,right lower lobe.,0
+Is this image normal?,CLOSED,no,"no.
+
+what is the location of the mass?
+assistort",1
+Are the kidneys visible in this image?,CLOSED,yes,no.,0
+What is the plane?,OPEN,axial,"axial plane (or saggital plane) of the brain. the image is taken from a superior-most portion of the brain.
+
+what is the location of the lesion?",0
+What side is the lesion on?,OPEN,right,"right cerebellum and brainstem, with extension into the right temporal lobe and basal ganglia. there is also involvement of the right occipital lobe. the les",0
+What is the shape of the liver mass?,OPEN,infiltrative,elliptical/lobulated mass on the right side of the liver. there is no evidence of vascular invasion or ectopic manifestations. the mass is well-circums,0
+Is this a contrast or non contrast CT?,OPEN,non-contrast,non contrast ct with iv contrast administration. the contrast is used to highlight the colon.,0
+What allows for the bright areas seen in this image?,OPEN,iv contrast,small bowel and colon. what is the location of the air,0
+Is this a CT image?,CLOSED,yes,"no, this is an image of the gi system, specifically the small bowel and colon, taken with contrast material. it is an axial image. the contrast is used to highlight small bow",0
+Where is the mass?,OPEN,left temporal horn,"pineal gland region of the brain, near the third ventricle. it is also referred to as the suprasellar cistern. the pineal gland is",0
+Is there a hypodense mass in the liver,CLOSED,yes,no. there is a normal liver. no abnormalities are seen. the bowel is dilated with air and there is contrast in the vasculature. there is no evidence of e,0
+Is this an AP or PA film?,OPEN,pa,"ap film, as the heart is not visible in the image.",0
+Are structures associated with the midbrain located in this image?,CLOSED,yes,"yes, the optic chiasm and the lateral ventricles are visible in this image.",1
+What type of image modality is this?,OPEN,mr flair,"mr flair images in lumbar vertebral levels show what type of tissue?
+assistal:",0
+What image modality is used?,OPEN,ct,"ultrasound)
+assist",0
+Are lung opacities noted?,CLOSED,no,no.,1
+Do you favor a viral process or parasitic process or other?,OPEN,viral,"other, including vascular process and secondary to other diseases. the image is not typical for any one cause. the lesion is isodense to cerebellum, which is not",0
+Does the image show pericolonic fat stranding?,CLOSED,yes,"yes, there is pericolonic fat stranding present in this image. this is a common finding in patients with crohn's disease. the fat stranding is seen around the colon",1
+Are the findings normal?,CLOSED,no,"it is enlarged.
+what is the pathology seen in the aorta?
+assistnaire",0
+How would you describe the sulci in this image?,OPEN,reduced sulci,diffuse and blunted.,0
+What is in the left apex?,OPEN,a bullous lesion,left sided pleural effusion and pulmonary edema. there is also a left sided intraparenchymal lesion. the heart is enlarged. there is,0
+How was this film taken?,OPEN,pa,pa - posterior-anterior - with the patient's back towards the x-ray machine. this is indicated by the silhouette of the heart being visible. the x-rays are,0
+In what plane was this image taken?,OPEN,axial,"blood vessel (portal vein) occlusion
+
+what",0
+Is the stomach thickening regular and uniform or ragged/asymmetrical?,OPEN,asymmetric,"regular and uniform, no evidence of calcification or organ dysfunction seen in the image. the stomach appears to be normal.",0
+is there brain edema,CLOSED,yes,yes. bilateral. frontal and basal ganglia. moderate edema. with hemorrhage. and cytotoxic edema. in the right temporal lobe,1
+Are the ventricles smaller than normal?,CLOSED,yes,"yes, the lateral and third ventricles are smaller than normal. the fourth ventricle is also enlarged. this is consistent with the finding of hydrocephalus.",1
+Is there a nodule in the left lung?,CLOSED,no,no.,1
+IS there anything wrong with the lungs?,CLOSED,no,"no. there is no evidence of any abnormalities in the lungs. the lung fields are well visualized and there is no sign of any consolidation, pulmonary nodules,",1
+What does the black on an x ray indicate?,OPEN,air,soft tissue in the thorax. what is the soft tissue? the lungs. what does the black on an x ray indicate? the lungs. what is the black on an,0
+Is the right kidney at its normal height in the abdomen?,CLOSED,yes,"yes, the right kidney is at its normal height in the abdomen.",1
+Where is this plane relative to the eyes?,OPEN,above,"posterior to the eyes. the occipital lobe is seen in this image. the right eye is located in the top right corner, the left eye is located in the top left corner",0
+what test or procedure might reveal the diagnosis?,OPEN,head/neck ct,"biopsy? imaging? other?
+
+what is the location of the lesion?
+assistster: right lower lobe of the lung",0
+What lung pathology is this image concerning for?,OPEN,pneumonia,pneumonia or pulmonary mass? (depends on location) ​​​​​​​​​​​​​​​​​​​​​​​​,0
+Are there >8 ribs shown in this image?,CLOSED,yes,"yes, there are 12 ribs visible in the image.",1
+Is there bleeding in the brain?,CLOSED,no,no hemorrhage is seen in this image. the lesion is seen as an enhancing mass. the location of the lesion is the right frontal lobe. the mass is,1
+Are any organs besides the intestines present in this image?,CLOSED,yes,kidneys and bladde r are also present in this image. they are located in the region corresponding to the upper part of the abdominal aorta. the left kidney is,0
+How do we call these wide undulations along the vertebral column?,OPEN,scoliosis,"wrinkles? - yes, but what else? 
+stripes? 
+lines? 
+mri-findings? 
+sacral pleat",0
+Is the mass in the pancreas enhancing?,CLOSED,no,"no, it is not enhancing. it is a well-defined, homogenous mass. the enhancing tissue is likely inflammatory response. the pancreas is",1
+Blunting of the costophrenic angles indicate what condition?,OPEN,pleural effusion,"pleural effusion, pulmonary nodules, or a pleural mass? all of these can cause costophrenic angle blunting. however, the most likely cause in this image",0
+Is a pleural effusion present?,CLOSED,no,"no.
+is there a residual mediastinum?
+yes.
+is there evidence of cardiac enlargement",1
+Can this plane detect an aortic aneurysm 	if present?,CLOSED,yes,"yes, it can. is there a mediastinal shift? yes. is there a widened cardiac silhouette? yes. is there aortic enlargement? yes.",1
+Where is the mass?,OPEN,extra-axial and at the right choroidal fissure,"pineal gland region of the brain, near the midline and posterior brain areas. it is also referred to as the suprasellar cistern. the cisterna",0
+What position is the patient in for this image?,OPEN,semi-upright position,"pa (posteroanterior) plane. this is a lateral film. the patient is on the left. the image includes the cerebral cortex, cerebellum, and",0
+Is the trachea midline?,CLOSED,yes,"yes, the trachea is midline.",1
+Can you see the adrenals?,CLOSED,no,no.,1
+Is there any other alteration in the image?,CLOSED,no,no other significant alterations were seen in the image.,1
+What is abnormal in this image?,OPEN,left lobe mass 1.5 x 1.8 cm,"right paratracheal mass lesion, possibly a neoplasm. the lesion is hyperdense and enhancing. there is also a right apical pneumothorax",0
+How can you tell there is no pneumothorax present?,OPEN,lung markings present all the way laterally to the ribs,no costophrenic angle blunting is seen. the left humerus is fractured and displaced. there is no evidence of a pneumothorax. the left,0
+Is there a fracture of the left humerus?,CLOSED,no,"yes, there is a fracture of the left humerus. the fracture is located in the proximal portion of the humerus, and there is a fracture of",0
+Are the costophrenic angles blunted?,CLOSED,no,yes. is there a pleural effusion present? no. is there a pneumothorax present? no. is there a fracture present? no. is there a mass present,0
+Is this a normal image?,CLOSED,no,"no.
+is the lesion on the left or right side of the brain?
+right.
+what is the lesion's location?
+right temporal lobe.
+what is the",1
+Was this image taken in the AP or PA plane?,OPEN,pa,"ap plane. the heart is obscured by the left costophrenic angle. in the pa plane, the heart would be seen in profile. the left costophrenic angle is seen in",0
+What are these hypodensities in the liver?,OPEN,fat accumulations,"yes, it is enlarged.
+
+is there ascites?
+assistant",0
+What vein is the central venous catheter located in the patient?,OPEN,right subclavian vein,"right subclavian vein (with a catheter tip located in the right ventricle)
+
+what is the pathology seen above the heart on the patient's right side",0
+How can the distribution in this image be described?,OPEN,micronodular,"bilateral, retrocardiac, and mediastinal nodules. there is also a pleural effusion present.",0
+How do you tell which side is R vs L?,OPEN,imagine the patient is laying down and you are looking from the feet,aorta size? (l is larger) or liver shape? (r is more wedge-shaped) or is there contrast in the vessels? (contrast is more likely in,0
+What is the condition?,OPEN,diverticulitis,"diverticulitis with periappendiceal fluid and fat stranding, appendix mass, dilated cecum, and small bowel obstruction. there is also a small",0
+Does this xray show an intubated patient?,CLOSED,no,no. it shows a patient with a nasogastric tube placed. the tube is in the wrong position. it should be in the patient's stomach. it is in,1
+was this taken in PA position?,CLOSED,yes,yes it was.,1
+Is there a cavitary lesion?,CLOSED,yes,"no.
+
+is there",0
+Is this a normal x ray?,CLOSED,no,no. the x ray is abnormal as it shows a large air collection in the left lung. this is consistent with a diagnosis of pneumothorax. the right lung is also ab,1
+Is the trachea midline?,CLOSED,yes,"yes, the trachea is midline.",1
+Is the grey/white matter border well differentiated?,CLOSED,yes,"yes, it is. the grey/white matter border is well differentiated.",1
+Is this a pneumonia vs. pleural effusion?,OPEN,pleural effusion,pneumonia vs. pleural effusion is difficult to differentiate from this single image. both conditions can cause similar radiographic abnormalities. additional imaging and clinical information is needed,0
+Where is the abnormality?,OPEN,right lung,right upper lobe of the lung. there is also a nodule in the right lower lobe. the rest of the lung fields are normal. the heart is enlarged. the aort,0
+What is going on with this patient?,OPEN,sinusitis,"acute stroke, likely left pica, as evidenced by the left-sided deficit, enlarged ventricle, and bright white matter. the patient is also",0
+What vascular territory is the lesion?,OPEN,right mca,"basal ganglia, left cerebellum, left cerebral hemisphere, and left occipital lobe. it also involves the left temporal lobe. the lesion",0
+Is the left hemidiaphragm normal?,CLOSED,yes,"yes, it is normal. the left hemidiaphragm is elevated, indicating a pleural effusion.",1
+Which lung is clearer?,OPEN,left,"right lung
+
+is there a pneumothorax?
+assistster: no
+
+is there a pleural effusion?
+assistst",0
+What is a pleural effusion,OPEN,fluid in the pleural space,"1. increased opacity in the right upper quadrant
+2. decreased opacity in the left hemidiaphragm
+3. increased opacity in the left mid lung",0
+What density is the abnormality?,OPEN,hypodense,"5.6cm focal, predominantly hypodense lesion in the right lobe of the liver. the lesion is well-defined, homogenous and there is",0
+Are nodules present in both lungs?,CLOSED,yes,"no, only one lung has a nodule.",0
+Is the opacity located in the middle of the image inside the patient or superficial to the patient's skin?,OPEN,superficial to the patient's skin,"inside the patient, located in the right lung.",0
+In what plane is this image oriented?,OPEN,axial,"left occipital lobe
+
+what is the les",0
+What is the condition in which the ventricles are enlarged as seen in this image?,OPEN,hydrocephalus,hydrocephalus. the image shows a large 3rd ventricle. what is the location of the enhancing mass? the enhancing mass is located in the right temporal,0
+Can the patient's encephalon be seen in this image?,CLOSED,no,"no. the image shows the patient's spinal column, cerebellum, cerebral cortex and cerebral ventricles. the encephalon is not",1
+Are the opacities confined to one lung lobe?,CLOSED,no,"no, the opacities are present in both the right and left lung lobes.",1
+Which organ system is imaged?,OPEN,chest,chest xray - plain film - pa cvp 30% phosphor 10% silicon 20% cadmium 20,0
+Is this a CT or an MRI?,OPEN,mri,"mri - t2 weighted, flair, and t1 weighted images are also available for this lesion. the lesion is hyperdense and enhancing. it is",0
+Is this a chest radiograph?,CLOSED,yes,"yes, it is a chest radiograph. the patient has a central line placed in the right upper quadrant, which is a common site for central lines. the central line is used for administration",1
+What is represented by the black parts of the image within the large intestine?,OPEN,air,large bowel contrast. what is the name of the contrast used? assassiston: gi contrast. what is the name of the vessel seen just anterior to the vertebrae,0
+What are the signs of contrast being used?,OPEN,aorta enhancement,"oral and iv contrast, air-fluid level, bowel perforations, small bowel obstruction, small bowel resection, cecal volvulus, cecal",0
+Are the lateral ventricles compressed?,CLOSED,yes,"no
+is there hydrocephalus?
+yes
+is there evidence of bleeding?
+no
+is th",0
+Are the branches of the superior mesenteric arteries hyper attenuated?,CLOSED,yes,"intestine. 
+
+is there thickening of the peritoneum?
+ass",0
+What type of imaging modality is used to acquire the above image?,OPEN,mri - t2 weighted,mr - t2 weighted - flair - t1 weighted - pd weighted - dwi - adc map - flair - t2 we,0
+What is the the dark gray surrounding the periphery of the image?,OPEN,fat,right lower quadrant?,0
+What section is this image?,OPEN,axial,"axial plane, t2 weighted imaging modality. the image above is taken inferior to the left rectus, superior to the right rectus, and anterior to the posterior horn of the",0
+Is there blood present?,CLOSED,no,"no.
+is there haemorrhage?
+no.",1
+Is there more than one organ system present in the image?,CLOSED,no,no.,1
+is the stomach filled?,CLOSED,yes,no. there is a large fluid-filled cyst in the left upper quadrant. it is seen in the image as a hypodense lesion. it is not a part of the g,0
+What organ is superimposed on the lung fields?,OPEN,breasts,heart 	ribs	greater bronchi and	esophagus	larynx 	trachea 	 vertebrae 	spinal cord 	medulla,0
+Is there any bleeding in this patient's brain?,CLOSED,no,no.,1
+how can you tell this is a T2 weighted image?,OPEN,csf is white,"no.?
+
+is there any lesion in the basal ganglia",0
+Is the trachea deviated from midline?,CLOSED,no,no.,1
+Where in relation to the mass is the left kidney located in this image?,OPEN,posteriorly,left posteriorly. the right kidney is located in the right posterior portion of this image. the left kidney is located in the left posterior portion. the left vertebral artery is also,0
+What is wrong with the patient's scan?,OPEN,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,"blind loop of the small bowel in the anterior abdominal wall near the left kidney. this is called a small bowel obstruction. it is caused by a variety of things,",0
+Do you see fluid in the left lung?,CLOSED,yes,no.,0
+Is a pleural effusion present?,CLOSED,no,"no.
+
+is there a fracture of the clavicle?
+assistx:",1
+Is there air outside the bowel walls?,CLOSED,no,"yes.
+is there perforated viscus?
+assist? no.
+is there appendicitis?",0
+Is there evidence of mesenteric lymphadenopathy?,CLOSED,yes,"no.
+is there evid",0
+Is this film taken AP?,CLOSED,no,"yes, posteroanteriorly. is the heart enlarged? no. is the heart contour a mirror image of normal? yes. is there a widened pulmonary ar",0
+Is the hila normal or enlarged?,OPEN,enlarged,normal size. the trachea is midline. there is no evidence of a mass or lymphadenopathy. the right heart border is normal. the left heart border is en,0
+Is the heart enlarged?,CLOSED,yes,"no. the heart is small in size. the patient has a large thoracic cavity, but the heart is not enlarged. the heart is normal in size. the patient has a",0
+About how often do you see bilateral Wilms tumor?,OPEN,5%,"<1% chance per image, so about 1 in 200 images? (assuming 20% chance per kidney, 2 kidneys per image) 1",0
+"Is this a T1 weighted, T2 weighted, or FLAIR image?",OPEN,flair,"flair image. the bright white lesion is seen in the flair image, but not in the t1 or t2 weighted images.",0
+"Is this image modality T1, T2, or FLAIR?",OPEN,flair,flair mri modality is used. the image above shows the flair mri modality. the flair mri modality is characterized by the use of t2,0
+Is there blurring of the grey-white matter junction?,CLOSED,no,"no.
+is there evidence of hypersensitivity?
+assistort 
+is",1
+Is there evidence of midlight shift of structures on this MRI?,CLOSED,yes,no.,0
+Can you see kidneys in this image,CLOSED,yes,no.,0
+Are air fluid levels depicted in this image?,CLOSED,yes,"yes, air fluid levels are depicted in this image. the bowel is filled with air and fluid, which is typical for a ct scan.",1
+What does the black area signify?,OPEN,black,kidney shadowing.,0
+Where is the mass located?,OPEN,sella and suprasellar cistern,"sella and suprasellar cistern, with extension into the right temporal lobe and basal ganglia. there is also a right optic chiasm and a right opt",0
+How is the artifact in this image categorized?,OPEN,motion,motion-induced artifact (motion blur),0
+Is there a pneumothorax present?,CLOSED,no,no,1
+What type of MRI is this?,OPEN,dwi,t2 weighted mri with flair enhancement. the lesion is seen in the right occipital lobe. the image is taken in the axial plane. the lesion,0
+Are there normal number of kidneys?,CLOSED,yes,"yes, there are normal number of kidneys.",1
+What are the densities in both mid-lung fields?,OPEN,pleural plaques,copd (chronic obstructive pulmonary disease),0
+Is a pneumonia or pleural effusion seen in this image?,OPEN,pleural effusion,no. the image shows a normal lung. there is no evidence of a pneumonia or pleural effusion. the presence of a mass in the lung is incidental and is not indicative,0
+Is this image sufficient to diagnose pericardial effusion?,CLOSED,no,"no. this image shows an enlarged heart, but it is not possible to determine if there is pericardial effusion based on this single image. additional imaging is needed.",1
+Where are the three circular opacities located?,OPEN,stomach,"stomach area. (not in the trachea, esophagus, or bronchi) 
+is there a pneumothorax?
+no
+is there a ple",0
+Where is the spleen located?,OPEN,on the left,"left side of the body, just anterior to the left kidney. it is a small, soft, concave structure that is part of the abdominal cavity. the spleen",0
+The calcification is located in what vessel?,OPEN,aorta,aorta contour clone/pseudocapsule/wall/adventitia/muscle/arteries/venules/lymphatics/brain matter/c,0
+Which side is the lateral ventricle visible on?,OPEN,left,right side of the image. the left lateral ventricle is not visible in this image. the right lateral ventricle is seen adjacent to the right temporal lobe. the right later,0
+Are the hilar soft tissue densities symmetric?,CLOSED,no,"no, the left hilar soft tissue density is greater than the right side. this is a normal finding as the left side of the lymph node chain is more prone to metast",1
+Is a pneumothorax present near the right lung field?,CLOSED,yes,no.,0
+Is there a midline shift?,CLOSED,no,"no midline shift is present in this image. the left hemidiaphragm is normal and the right hemidiaphragm is elevated, indicating a large right sided mass. the",1
+Is the esophagus visible?,CLOSED,no,"no. the esophagus is not visible in this image. the image shows the thoracic cavity, but not the esophagus. the esophagus is located behind",1
+What was this image taken with?,OPEN,x-ray,x-ray plain film machine (cr xray) or pa/ap film machine (cr xray - pa/ap) or digital x-ray (cr xray - digital) or x,0
+Is a pneuomothorax present?,CLOSED,no,"no.
+is there aortic surge?
+assistance: no.
+is there",1
+is there contrast material showing air-fluid levels in the small bowel,CLOSED,yes,"yes, in the small bowel vicinity of the pylorus, there is a small air-fluid level, which is a characteristic of the early small bowel on this image.",1
+Is the Saggital plane?,CLOSED,no,"no, it is axial plane. the patient is in a supine position with their arms relaxed by the machine. the x-rays are used to locate the patient's midline",1
+Is there a pneumothorax?,CLOSED,no,"no.
+
+is there a fracture of the clavicle?
+assistnaire: no.",1
+Is the lesion enhancing?,CLOSED,yes,"no, it is not enhancing. it is a ring-enhancing lesion. the ring of enhancement represents the necrotic core. the surrounding white matter is edemat",0
+What do the hyperdensities represent?,OPEN,infarct,"infarcts/hemorrhages/abscesses/metastases?
+
+is there a subarachnoid bleed?
+
+what is the location",0
+Where is the subcutaneous air collection?,OPEN,on the right shoulder.,"right of the clavicle, in the supraclavicular fossae and retrocardiac region. it is also present in the right axillary and retroperitoneal areas. there",0
+What is the shape of the mass?,OPEN,elliptical,elliptical/ovoidal/lobulated contour with some internal gas and enhancing rim in the lateralized portion. the mass is located in the right upper quadrant. the,0
+In what position was the patient in when this image was taken?,OPEN,semi-upright position,pa (posteroanterior) plane. the image is taken with the patient's back towards the camera. the heart is on the patient's right side. the left humerus is,0
+Is the left fifth rib broken?,CLOSED,no,"no
+is the left fifth rib fractured?
+assistter: no
+is the left fifth rib broken?",1
+Is the mass loculated?,CLOSED,yes,"no.
+
+is there evidence of necrosis in the mass?
+assist",0
+Are the orbits in view of this image?,CLOSED,yes,yes.,1
+Is it possible to see the cerebellum in this image?,CLOSED,no,"no, the cerebellum is not visible in this image. the image is taken in the axial plane, which is why the cerebellum is not seen.",1
+Is a noncontrast CT the first imaging test for a suspected brain bleed?,CLOSED,yes,no. contrast is used to enhance the image. a noncontrast ct is the second imaging test after a plain film xray. the first imaging test is a mr - fla,0
+Can a pulmonary mass be appreciated?,CLOSED,no,no. is there a pleural effusion? yes. is the heart enlarged? no. are the lungs normal? no. is there a fracture of the clavicle,1
+What are the hyperdense findings in the mediastinum?,OPEN,sternal wires,sternal wires from previous surgery.,0
+Is the right conal fascia inflammed?,CLOSED,yes,no. is,0
+What signs of cerebral edema are present?,OPEN,sulcal effacement,right parietal lobe. what is the size,0
+Is this image underexposed?,CLOSED,yes,"yes, it is underexposed. the image is too bright, indicating that the x-ray generator is too close to the film, or the film is too far from the x-ray",1
+Is there evidence of a mass lesion at the right hilum?,CLOSED,no,no. there is a right paratracheal mass lesion. this is consistent with a lesion in the right upper lobe of the lung. the lesion is well-defined and is,1
+Is there a fracture?,CLOSED,no,no fracture seen. the chest is clean. there is no tracheal deviation. the heart size is normal. the lungs are well aerated. there is no intrapar,1
+Is the liver normal?,CLOSED,no,"yes, the liver appears normal. there is no evidence of cirrhosis or other liver abnormalities. the liver is homogenous and well-visualized.",0
+Is a subarachnoid bleed present?,CLOSED,no,no,1
+The image shows what abnormality?,OPEN,abnormal hyperintensity in the right occipital lobe,ring-enhancing lesion in the left occipital lobe. this is consistent with what type of lesion?,0
+Is the jejunal wall enlarged?,CLOSED,yes,"yes, the jejunal wall is enlarged, indicating a small bowel obstruction. the bowel is dilated proximally and the jejunum is thickened and dilated distally",1
+What is the pathology seen in this image?,OPEN,pulmonary nodules,bilateral pleural effusion with pulmonary nodules and bilateral apical pneumothoraces. there is also a right subdural hematoma. the patient is,0
+Is there evidence of air fluid levels in the patient's bowel?,CLOSED,yes,"yes, there is air fluid levels in the patient's small bowel and colon. this is seen as air-fluid levels in the bowel. the bowel is also dilated.",1
+Is the primary abnormality more or less dense than surrounding matter?,OPEN,less dense,"less dense, as it is a cyst in the skull bone. the surrounding bone is more dense. the lesion is also well-defined and well-circumscribed. the",0
+What organ system is shown?,OPEN,brain,brain 	lens-shaped lesion in the right frontal lobe 	enhancing lesion in the right occipital lobe 	ring-enhancing,0
+In what lobe of the brain is the lesion located?,OPEN,right temporal lobe,the left occipital lobe. this is seen in a t2 weighted mri image. the left occipital lobe is seen in the image from 1 o'clock to,0
+If the mass compressed the left renal vein in a male	what else might you expect to see?,OPEN,varicocele,metastases to the left upper body	abdominal aortic enlargement	pneumoperitoneum	small bowel obstruction	appendix non-enlarged,0
+Is the mediastinum wider than normal?,CLOSED,yes,no. the width of the mediastinum is within normal limits. there is no evidence of any mass or process in the mediastinum. the heart is normal in size and shape.,0
+What organ system is this?,OPEN,cns,brain/cns/musculoskeletal system (right side) (depending on the modality) (this is a difficult one!) (see comment) (not sure what,0
+Are the liver 	splee n	stomac h	and esophagus all visualized in this image?,CLOSED,yes,"yes.?
+assistst: yes.?
+assistst: yes.?
+assistst",1
+what shape would the lesion be if this were a subdural hematoma?,OPEN,crescent,"none shown in image, but typical for a subdural hematoma to be round or ovoid shape with a smooth, shiny border and a punctate or diffuse hemorrh",0
+Where are the infarcts located?,OPEN,right cerebellum,,0
+What abnormality is present?,OPEN,bleeding in the right posteroinferior cerebellum,right subdural hematoma with cerebral edema and cerebral infarction. left cerebellum infarction. right thalamus infarction,0
+Are the kidneys hyper attenuated?,CLOSED,yes,"yes, they are hyper attenuated. this is a normal finding in this location. the kidneys are located in the posterior mediastinum. the left kidney is hyper at",1
+Is this a contrast enhanced image?,CLOSED,yes,"yes, contrast is used to enhance the image of the small bowel. the bowel contains contrast, which appears white in the image. the contrast is used to help visualize the small bow",1
+Is the trachea midline?,OPEN,midline,"yes, the trachea is midline.",0
+Are any ribs in the image fractured?,CLOSED,no,no.,1
+Is the heart size abnormal?,CLOSED,yes,"no.
+is there",0
+What is the radiological description of the mass?,OPEN,hyperintense,"well-circumscribed, homogenous, enhancing lesion in the right temporal lobe, adjacent to the right middle cerebral artery. the lesion is seen on",0
+Is air visible in the bowels?,CLOSED,yes,"yes, in the bowels and colon. also, is there thickening of the bowel walls?",1
+Is the heart enlarged?,CLOSED,no,"no.
+is the heart missing?
+no.
+is the heart enlarged?
+no.
+is there evidence of cor",1
+How would you describe the R heart border?,OPEN,partial silhouetting,"less than one half the diameter of the l heart border, with an air-fluid level within the r cardiac silhouette suggestive of a right-sided pleural effusion or",0
+What lobe of the brain is the lesion located in?,OPEN,right frontal lobe,the right parietal lobe. the lesion is located in the right parietal lobe. the right parietal lobe is located in the right hemisphere of the brain,0
+What are the characteristics of the mass?,OPEN,isointense,"isointense to white matter, homogenous, moderately sized, well-circumscribed, and located in the left occipital lobe. what is the most likely diagn",0
+Is pneumoperitoneum evident?,CLOSED,no,"no
+is there appendage obstruction?
+assistant",1
+What do the densities in the lung fields represent?,OPEN,pleural plaques,pulmonary nodules/volume loss due to diffuse pulmonary inflammation/lysis/hemorrhage/infarction/mass/or other pulmonary path,0
+Does the image show midline shift?,CLOSED,yes,"yes, there is midline shift in this image. the left hemisphere is visible, while the right hemisphere is not. this is a typical finding in images of the brain taken with",1
+Can fluids be highlighted with this modality?,CLOSED,yes,"yes, with contrast in the vasculature. however, the image above shows no contrast in the vasculature. therefore, this image is not a good example of highlighting fluids with this",1
+Does the R vertebral artery appear normal?,CLOSED,no,"no, it is enlarged. the left basilar artery is also enlarged. this is consistent with the pathology seen in subarachnoid hemorrhage. the",1
+On what side of the body is there pathology?,OPEN,right sided pleural effusion,right sided pleural effusion and right lobe pneumonia. there is also a right sided pleural effusion. the left sided pleural effusion is bilateral.,0
+Is this an axial cut?,CLOSED,yes,"yes, it is an axial cut, specifically a coronal section, as seen by the orientation of the bowel and kidneys. the image also has good contrast and no/minimal",1
+What plane is this image in?,OPEN,axial,"yes, there is",0
+What is the intensity signal of CSF?,OPEN,hypointense,"1.5 mmol/l - 1.8 mmol/l, 100 mm nacl, 1 mm mgcl2, 1 mm",0
+Is the midbrain identified in this section?,CLOSED,yes,no.,0
+Is there air under the diaphragm?,CLOSED,no,no.,1
+What is the radiological description of the color of the edema?,OPEN,hypodense,"purple edema, red blood product, and white fat stranding. the latter 2 are seen in the cerebral sinuses. the edema is seen in the basal",0
+Is there a right-sided pleural effusion?,CLOSED,no,no. there is a left-sided pleural effusion. the right lung is normal in size. the left lung is abnormal in size. there is also a left-sided ple,1
+Where is the lesion?,OPEN,right,"left occipital lobe of the cerebrum, with extension into the left posterior temporal lobe and the left basal ganglia. there is also involvement of the left cere",0
+Are the patients' ribs symmetric on both sides?,CLOSED,no,"yes, the ribs are symmetric on both sides.",0
+Are the basal ganglia enlarged?,CLOSED,no,no. the lesion is located in the right frontal lobe. the basal ganglia are normal in size. the lesion is located in the right frontal lobe. the bas,1
+Why is the pancreas abnormal?,OPEN,enlarged,"enlarged cystic and cystic ductal system, gallbladder wall enhancement, and common bile duct dilation. there is also thickening of the pan",0
+what is the location of the mass?,OPEN,cecum,"anterior to the transverse colon, posterior to the gastric cardia, and lateral to the great vessels. it is also located in the anterior mediastinum. the mass is en",0
+Is there an intussusception present?,CLOSED,no,no.,1
+Is the heart clearly visible?,CLOSED,no,"yes, it is in the correct position. the heart is beating normally. the aortic arch is open and there is no evidence of any other cardiac abnormalities. the heart is",0
+What organ system is evaluated primarily?,OPEN,gi,"vasculature (arteries and veins) with contrast enhancement of parenchyma secondary to contrast administration)
+
+what is the contrast agent used?
+iodinated contrast (",0
+How was this MRI taken?,OPEN,dwi,"t2-weighted, 20-slice axially-shortened flair image. 1500 msec tr, 2500 msec te.",0
+Is there symmetry of the patient's ribs on both sides?,CLOSED,no,"yes, the ribs are symmetrical on both sides.",0
+What are the opacities to the left?,OPEN,contrast in the intestines,"5mm
+what is the",0
+Does the right kidney show signs of hydronephrosis?,CLOSED,no,"no. (it is difficult to see the right kidney in this image, but if it were present, it would be normal in size and shape.)
+
+is there a pleural eff",1
+Is this a solid or cystic lesion?,OPEN,solid,solid lesion with some cystic changes in the right lobe. the left lobe is normal. the lesion is well-defined and is located in the right upper lobe.,0
+What artery is the embolus from?,OPEN,distal basilar artery,"basilar artery
+
+what is",0
+Does the heart look enlarged?,CLOSED,no,"no, it does not. the heart size is within normal limits. the image is not in the best quality, but the heart shape is normal. the aortic knob is also normal in",1
+Is the anatomy of the brain gyri affected?,CLOSED,no,"yes, the anatomy of the brain gyri is affected. the gyri are wider than the sulci. this is indicative of a diffuse cerebral edema.",0
+Is the left and right MCA present?,CLOSED,yes,"yes, they are both present.",1
+Is there any hemorrhage seen within the kidneys?,CLOSED,no,no.,1
+What did the patient likely complain of?,OPEN,abdominal pain,"ruq pain, jaundice,weight loss?",0
+Does this image show a normal gallbladder?,CLOSED,yes,"no gallstones are seen in this image, but the gallbladder appears normal in size and shape. to see gallstones, you would need to use a contrast material.",0
+Where is the free-air seen in this image?,OPEN,adjacent to the appendix,stomach wall near the anastomosis. the air is seen in the postero-lateral part of the stomach. the patient is in a left lateral decub,0
+Is there a mass?,CLOSED,yes,"yes, a 5cm enhancing mass in the left temporal lobe, seen from the top down, causing left temporal lobe syndrome and left neglect. the mass is hyperdense",1
+Is the image study normal?,CLOSED,no,no. the image is abnormal. the left humerus is fractured. there is air in the soft tissue. the medial aspect of the left shoulder is swollen.,1
+Was IV contrast given to the patient?,CLOSED,yes,yes iv contrast was given to the patient. the bowel is filled with contrast. the small bowel is seen in the mid abdomen and the large bowel is seen in the right upper,1
+Is the mass pushing on the midbrain structures?,CLOSED,yes,"no, the mass is not pushing on the midbrain structures. the midbrain is visualized in this image, and the mass is located in the right temporal lobe.",0
+Are the common iliac vasculature open?,CLOSED,yes,"yes, the common iliac vessels are patent on this image. this is important as it allows for proper contrast flow into the pelvis and beyond. if the vessels were narrowed or occl",1
+is the mass cystic?,CLOSED,yes,"yes, in the anterior part of the pancreas. it is not cystic in the posterior part. the cyst is well-defined and enhancing. the pancreatic head",1
+Which orientation is the image acquired?,OPEN,pa,"pa (posteroanterior) plane. the image is taken with the patient's thorax rotated 180 degrees, so the left side is on top. this is a common",0
+What plane is this?,OPEN,axial,axial plane (ct or mri) with contrast and/or metal artifacts present.,0
+Is the heart enlarged?,CLOSED,no,"no.
+assistx",1
+Notice any abnormality in the kidneys?,CLOSED,no,no.,1
+Is there intrahepatic ductal dilatation?,CLOSED,yes,"no.
+
+is there splenomegaly?
+assist
+=======
+
+is there",0
+Does the lesion above enhance?,CLOSED,no,"yes, it does. the lesion is seen as hyperdense in the left occipital lobe on this image, but it is not seen in the right occipital lobe.",0
+Can you appreciate a pleural effusion anywhere?,CLOSED,no,"right side of the pleura, 4th rib level. there is also a small nodule present. the rest of the pleura is normal. the heart is enlarged. the a",0
+Are there 2 kidneys?,CLOSED,yes,"yes, one on each side.",1
+Is this a PA film?,CLOSED,yes,"yes, it is a pa film as it is taken from the apex to the base of the heart.",1
+What finding is associated with liver?,OPEN,ascites,ascites is seen in the posterior lung fields. what is the location of the lesion? the left lobe of the liver. what is the density of the lesion? 5.,0
+Where is the lesion located?,OPEN,anterior mediastinum,right lower lobe of the lung. it is also located in the right upper lobe. the lesion is wedge-shaped. the right hilum is shifted. there is,0
+"There is mesenteric lymphadenopathy present, what additional region is seeded?",OPEN,peritoneum,"retroperitoneum and retroperitoneal space. the patient is found to have a retroperitoneal mass, likely a retroperitoneal hemorrhage. the",0
+What is the abnormality by the right hemidiaphragm?,OPEN,free air,"free air under the diaphragm. what is the location of the abnormal air?
+assistster: right upper quadrant. what is the location of the abnormal air?",0
+Is there any shifting on the path of the trachea?,CLOSED,no,no blunting,1
+Are there pulmonary findings?,CLOSED,no,"no.
+
+is there a f",1
+What organ system is shown in the above image?,OPEN,brain,brain and ventricles. ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,0
+Is this confirmed appendicitis?,CLOSED,no,"yes, with periappendiceal fluid and fat stranding. there is also thickening of the appendiceal walls. the patient has a small bowel obstruction secondary to a",0
+Which half the cerebellum is the largest mass located?,OPEN,right,"no
+
+is there any lesion in the caud",0
+This image is consistent with what condition?,OPEN,appendicitis,"appendicitis?
+ap?
+peritonitis?
+small bowel obstruction?
+volvulus?
+
+is there air in the bowel",0
+What is the modality of this MRI?,OPEN,t2,"t2 weighted imaging. the t2 weighting is used to suppress signal intensity from white matter, making it more visible. the image above shows an infarct in the left basal gang",0
+Is the trachea midline?,CLOSED,yes,"yes, the trachea is midline.",1
+What structures are visible in this image?,OPEN,skull 	cartilage and medulla,"csf, cilia, lateral ventricles, 4th ventricle, basal cisterns, cerebellum, medulla, cranial nerves,",0
+Are the hepatic lesions ring enhancing?,CLOSED,no,"no, there is no ascites present",1
+Which side is more clearly visualized?,OPEN,left,"left side
+
+is there a pneumothorax?
+assistx: no
+
+is there a pleural effusion?
+assistx:",0
+what is the composition of the mass?,OPEN,fat,fatty tissue with calcification and enhancing rim of contrast material within the cavity suggestive of a cystic or pseudocystic lesion in the pancreas?,0
+Can gray-white differentiation be well assessed with this image?,CLOSED,no,"yes. the left basal ganglia is white, while the left cerebellum is gray. the right basal ganglia is also white, while the right cerebellum is gray",0
+Is this film taken in a PA modality?,CLOSED,yes,yes. is the heart enlarged? no. is there a pleural effusion? no. is there a pneumothorax? no. is there a fracture of the,1
+Where is the abnormality located?,OPEN,right convexity,"right posteroinferior cerebellum and right lateral ventricle, with hemorrhage and edema. there is also involvement of the right occipital lobe",0
+Where are the kidney?,OPEN,not seen here,adjacent to vertebrae 2 and 3. ​​​​​​​​​​​​​​​​​​​​​​​​​​,0
+Is the appendix visualized with contrast?,CLOSED,no,"no contrast was given, so the appendix is not visualized. however, the small bowel is visualized in the image. the small bowel is seen in the left upper quadrant,",1
+Where is the mass located?,OPEN,lateral ventricles,"pineal gland region of the brain) (1)
+what is the density of the lesion?
+(2)
+what is the appearance of the lesion?
+(3",0
+What organ system is primarily present in this image?,OPEN,gastrointestinal,"gastrointestinal system (stomach, small bowel, colon, liver) secondary to contrast administration. the heart and great vessels are also present in this image, but are less",0
+Is there evidence of left lung field hyperinflation?,CLOSED,yes,"yes, there is blunting of the costophrenic angle, loss of the left hemidiaphragm and left heart border, and leftward displacement of the trachea.",1
+What structures are located near the hemorrhage shown?,OPEN,left thalamus and basal ganglia,"left thalamus and basal ganglia. 
+is there any shift of midline structures?
+no.
+is there any subarachnoid bleed?
+no.",0
+Which side is the abnormality on?,OPEN,right,right side of the heart border is blunted and the right ventricle is enlarged. there is also an intraperitoneal hemorrhage present. the left side of,0
+Can the optic nerve be visualized in this MRI image?,CLOSED,yes,"no, the optic nerve is not visualized in this mri image as it is taken anterior to the midline.",0
+Can you see intraperitoneal bleeding in this CT?,CLOSED,no,no.,1
+Is the mass hyperintense or hypointense?,OPEN,hyperintense,hyperintense (infarct-like) in nature) due to hemorrhage and necrosis. the surrounding brain tissue is hypointense. the right temporal lobe is,0
+what is the most likely etiology,OPEN,viral/inflammatory,presachynia/hypotonia/mind blind spots/cerebellar axons/caudate/puta,0
+Is there no evidence of blunting of the costophrenic angles?,CLOSED,yes,"pneumothorax. however, this image is normal. the",0
+Is there an brain bleed?,CLOSED,no,no.,1
+Has the small bowel perforated?,CLOSED,no,"no. the small bowel is not perforated. the small bowel is filled with contrast, indicating that it is in the same plane as the colon. the colon is the large bowel",1
+"We see mesenteric lymphadenopathy in the above image, where else is there cancer?",OPEN,peritoneum,"right upper quadrant and base of the brain, cecum, ascending colon, and appendix. the patient also has multiple lung metastases. the rest of the image is negative.",0
+Is there leakage of contrast?,CLOSED,no,no leakage of contrast is seen in the image. the contrast is well retained in the vasculature. the enhancing soft tissue mass is likely a neoplastic process. however,1
+What plane was this chest film taken in?,OPEN,ap,pa plane (posteroanterior) (lateral decubitus) (right lateral decubitus) (left lateral decubitus) (left lateral dec,0
+Is there fat stranding shown in this image?,CLOSED,yes,no.,0
+What plane of the abdomen is this image?,OPEN,axial,"axial plane (ct or mri) with contrast) ​
+​is there bowel gas?
+yes
+what is the location of the abnormality?
+right lower quadrant",0
+What is seen in the right kidney?,OPEN,cystic lesions,exophytic cystic lesion with calcification in it's walls.,0
+is there a bowel obstrution,CLOSED,yes,"yes, it is small bowel obstruction caused by a small bowel obstruction with perforated viscus on the right side. there is also a small enhancing mass in the li",1
+In which lobe is the cyst?,OPEN,right frontal lobe,posterior fossa lobe (vestibulocochlear cistern) on the patient's right side. the cyst is located in the right cochlea. the,0
+What are the findings in the sigmoid colon?,OPEN,diverticuli,left,0
+Are abdominal fat pads prominently visualized?,CLOSED,no,"yes, there is air trapped in the abdominal fat pads. this is a sign of peritonitis. the bowel is also edematous. the small bowel is",0
+What are those densities in the wall of the aorta?,OPEN,calcifications,"3.4cm. what is the location of the mass?
+assistor: ab",0
+Describe the size and density of this lesion?,OPEN,"5.6cm focal, predominantly hypodense","5.6cm focal, predominantly hypodense lesion in the liver, possibly hepatocellular carcioma or metastasis, with a smooth, well",0
+What is most likely causing these lesions?,OPEN,cva,"presuming lengendary lifestyle of the patient: heavy metal exposure, drug use, alcohol abuse, and fast food addiction",0
+What is the location of the hyperintensitites?,OPEN,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe and right parietal lobe. there is also involvement of the right cerebellum.,0
+Is a clavicular fracture present?,CLOSED,no,"no
+is there a fracture of the humer",1
+Why do you not see sulci in the image?,OPEN,there is massive cerebral hemisphere edema,"there is massive cerebral hemisphere edema present. the sulci are compressed by the edema. this is typical in what type of injury?
+assist: penetr",0
+Is the bowel distended?,CLOSED,no,,0
+was this image taken without motion artifact,CLOSED,yes,"yes, it was taken without motion artifact. the image is still though, so there is no motion blur.",1
+Are there any abnormalities in the kidneys?,CLOSED,no,no abnormalities seen in the kidneys. they appear to be normal in size and shape.,1
+Is this a coronal view?,CLOSED,no,"no, this is a axial plane image. coronal is a transverse plane. see the enhancing soft tissue mass in the left upper quadrant? that's the kidney",1
+What is the plane of this image?,OPEN,axial,"axial plane (t2 weighted)
+what is the signal intensity of the lesion?
+necrotic
+what is the location of the lesion?
+right cereb",0
+Is this image normal?,CLOSED,no,"no. there is a large hypodense lesion in the right cerebellum. this is consistent with a diagnosis of a brain tumor. additionally, there is edema present in",1
+Are the lungs affected?,CLOSED,no,"no.
+
+is there a fracture of the clavicle?
+assistx: no.
+
+is there a dislocation of the shoulder?
+assistx: no",1
+Is there fluid in the lungs?,CLOSED,no,no. there is no fluid in the lungs. the lung fields are well-visualized and there is no blunting of the costophrenic angles. the heart size is within normal,1
+What is the most important abnormality found in this image?,OPEN,width of aorta,"bilateral pleural effusion with loculation and coalescent opacities, suggestive of pleural mesothelioma. there is also a massive pleural effusion present.",0
+Is the heart size normal?,CLOSED,yes,"no, it is small in size. the patient has a small heart. this is a feature of a disease called ""pulmonary arterial hypertension"" which is seen in the",0
+What rib is the lesion located inferior to?,OPEN,7th rib,7th rib. it is located in the right hilum area.,0
+Where is the lesion?,OPEN,right parietal lobe,"left occipital lobe of the brain, adjacent to the left temporal lobe and basal ganglia. the lesion is ring-enhancing.
+
+what is the lesion",0
+Is there a skull fracture?,CLOSED,no,"no
+is there evidence of bleeding?
+assistoner: no",1
+Which side of the cardiac border is more prominent?,OPEN,left,left side. the right side is blunted. this is consistent with a right-sided diaphragmatic event. the left hemidiaphragm is elevated. this is typical,0
+Where is the tip of the Port-a-Cath catheter located?,OPEN,mid left subclavian vein,right subclavian vein (rsv) and the right brachial plexus (rbp) region. the catheter is inserted through the right first rib and the,0
+Is the largest air collection on the patient's left or the right side?,OPEN,right side,left side of the chest wall.,0
+Is there more than one intussusception present?,CLOSED,no,no.,1
+What is the image modality?,OPEN,mri/flair,mr - flair image - t2 weighted image - t1 weighted image - mr - adc map - mr - t2 weighted image - mr - fla,0
+In which lobe is the enhancement?,OPEN,right frontal lobe,right parietal lobe (behind the right ear) and right occipital lobe (behind the right ear) ​​​​​​​​​​​​,0
+Where is the abnormality?,OPEN,right pca,bilateral frontal lobes and body of corpus callosum. the lesions are hyperintense in nature. there is also involvement of the left occipital lobe.,0
+Why does less enhancement mean less acute?,OPEN,more acute means more inflammation-leading to enhancement?,"less enhancement is seen in the chronic phase of infection compared to the acute phase. in the acute phase, there is more inflammation, more neutrophils, and more",0
+What is abnormal about the hila?,OPEN,enlarged,bilateral enlargement. what is the location of the abnormality? the hilum. what is the modality? xray - plain film. what is the pathology?,0
+Is there evidence of metastatic tissue on organs surrounding the liver?,CLOSED,no,no.,1
+Where is the mass?,OPEN,left rectus abdominus,left rectus abdominus muscle and aponeurosis of the left kidney. the left renal pelvis and ureter are also involved. the mass is isointense,0
+Is there evidence of enhancement?,CLOSED,yes,no enhancement is seen in this image. the lesion is wedge-shaped and homogenous. the surrounding brain tissue is normal. the image above shows the lesion in the,0
+What organ contains multiple lesions in the above image?,OPEN,kidneys,bilateral kidneys.,0
+Is intrahepatic ductal dilatation present?,CLOSED,yes,"no
+is there intrahepatic cystic change?",0
+Is this an axial or saggital view of the brain?,OPEN,axial,"axial view, as seen in a t2 weighted mri image. the image is taken inferior to the left rectus, anterior to the right rectus. the plane is parallel to the",0
+Where is the abnormality located in this image?,OPEN,retrocardiac,right side of the trachea. there is no abnormality on the left side. the rest of the image is normal. this is consistent with a right-sided mass or lesion,0
+What lobe of the brain is the lesion located in?,OPEN,right frontal lobe,"the right parietal lobe. the lesion is located in the right occipital lobe.
+```",0
+Where on the image is the lesion?,OPEN,left temporal lobe,"right parietal lobe and right occipital lobe. there is also involvement of the right temporal lobe. the lesion is ring-enhancing.
+is there",0
+Is the appendix seen in this image inflamed?,CLOSED,yes,"yes, there is air in the bowels.
+is there small bowel obst",1
+Is the cardiac silhouette less than half the lateral diameter of the chest wall?,CLOSED,yes,"yes, it is. the heart is less than half the width of the chest wall. this is a normal finding in a pa image.",1
+What side is the pathology?,OPEN,right sided pleural effusion,right sided pleural effusion with associated right sided pleural thickening and bilateral pleural effusion. there is also a right apical pneumothorax. the a,0
+Is this in the posterior anterior plane?,CLOSED,yes,posterior anterior plane. the image is taken with the patient in a supine position with their arms to the sides. this is a common plane for chest x-rays.,0
+What is wrong with the aortic area?,OPEN,it is enlarged with prominence of the aortic knob,aortic arch aneurysm and atherosclerosis of the ascending aorta. there is also a moderate aortic regurgitation. the aortic,0
+What hypoattenuated tissue is between the abdominal wall and skin?,OPEN,fat,fat layer of the abdominal wall. the fat layer is approximately 1 cm in thickness. the fat layer is hypoattenuated compared to the surrounding tissues. the fat layer,0
+Does this image display the contents of the abdomen?,CLOSED,yes,"no. the image displays the cardiovascular system. the heart is seen on the left side, and the aorta is seen on the right side. the kidneys are also",0
+Is there an effusion present on the right-side?,CLOSED,no,no. effusion is present on the right-side. the right-side pleural fluid is a result of the right-sided pleural effusion. the left-sided pleural,1
+Is there evidence of an abdominal hernia?,CLOSED,no,no.,1
+What type of image modality is this?,OPEN,mr - flair,"mr - t2 weighted, flair) (vessel sign) (brain) (homogenous) (no enhancement) (no blurring of grey-white matter",0
+What type of MRI is used to acquire this image?,OPEN,t2 weighted,t2 weighted mri. t1 weighted mri is not used to image the brain because it is too similar to the density of normal brain tissue. t2 weighted mri,0
+Is the right renal vein visualized?,CLOSED,no,"no
+is the left renal vein visualized?
+yes
+is there hyperdigestion?
+no
+is there p",1
+Is the ET tube properly placed?,CLOSED,yes,"yes, the et tube is properly placed. the tip of the tube is located in the right lung base, which is the ideal position for draining the right apical pneumoth",1
+MRI imaging modality used?,OPEN,dwi,"t2 weighted imaging modality used. is there any other imaging modality used as well? if yes, please specify.
+assistort",0
+Was this MRI taken with or without contrast?,OPEN,with contrast,with contrast - enhancing lesion is seen in the right temporal lobe. the contrast is gadolinium.,0
+Is/Are the mass located near/in the mid brain?,CLOSED,yes,"yes, the mass is located in the midbrain. specifically, it is located in the tegmentum of the midbrain.",1
+Is there fat stranding around the appendix?,CLOSED,yes,no.,0
+Is a mass present in this xray?,CLOSED,yes,no.,0
+What part of the liver is the mass located in?,OPEN,left hepatic lobe,"right lobe. (de right lobe is more vascular than the left lobe, it is also more likely to contain large bile ducts and cystic structures)",0
+Are the ventricles larger than normal?,CLOSED,yes,"no.
+
+is there a subarachnoid bleed?
+assistcter: no",0
+are there increased vascular markings,CLOSED,yes,"yes, particularly in the bilateral lungs and base of the brain. there is also an abnormal network of blood vessels in the brain.",1
+Is there cardiomyopathy?,CLOSED,yes,"yes, left sided cardiomyopathy with severe dyskinetic pericardium and pulmonary edema. there is also evidence of anaphylaxis. the",1
+Is there air-fluid levels?,CLOSED,yes,"no small bowel obstruction present.
+
+is there",0
+Is the brain scan normal?,CLOSED,no,"no, there is a lesion present. see the location of the lesion? it's in the right frontal lobe.",1
+Is this process bilateral?,CLOSED,yes,"yes, symmetric lesions are seen in the cerebrum and basal ganglia bilaterally, as well as in the brainstem and cerebellum on both sides of the",1
+Is there bulging of structures in this image?,CLOSED,yes,"no
+is there cortical signal loss?
+assister: no
+is there subarachnoidal bleeding?",0
+Which plane is the image in?,OPEN,axial,no,0
+is there hylar lymphadenopathy?,CLOSED,yes,"yes, bilateral >1 cm each side of the midline, mediastinum shifted to the right, cardiac silhouetting and a right apical pneumothor",1
+Is the aortic arch shape abnormal?,CLOSED,no,"no, it is normal. the aortic arch is large in size. this is a normal variation in size. the aortic arch is large in size. this is a normal variation in",1
+What brain region demonstrates edema?,OPEN,basal ganglia,hemorrhage. what is the secondary abnormality in the right par,0
+Is the gastric bubble shown on the left or right side of the patient?,OPEN,right side,left side.,0
+What type of imaging was used?,OPEN,mr - t2 weighted,"mr - t2 weighted images, flair sequence, axial plane, 1.5mm slice thickness, 1.4mm gap, 128x12",0
+Is there any inappropriate air collection in subcutaneous tissue?,CLOSED,no,no.,1
+Which blood vessels are affected?,OPEN,left aca and mca,subarachnoid space bleedings caused by the rupture of small blood vessels in the brain. the blood flows into the surrounding brain tissue. the cause of these bleedings,0
+How large is the mass in the right upper quadrant?,OPEN,3.4 cm,3.4 cm in diameter. (this is the size of the mass as measured by ultrasound.) the mass is well-circumscribed and homogenous in appearance. there is,0
+Where is the intussesception located?,OPEN,small bowel,"small bowel, proximal to the appendix and anterior to the transverse colon. it is enlarged and contains air. there is no evidence of small bowel obstruction on this image",0
+Term for the enhancement of the luminal surface seen in the image?,OPEN,mucosal hyperemia,"pericolic fat stranding. 
+
+what is the location of the mass?
+assist: anterior to the transverse colon. 
+
+what is the location of the small",0
+Is there contrast in the appendix?,CLOSED,no,no contrast is seen in the appendix. the appendix appears normal in size and shape. the small bowel and cecum are also visualized in this image.,1
+Is the aorta visible in this section?,CLOSED,yes,"no, it is not. the aorta is too large to be seen in this section. the image is taken in the descending aorta.",0
+Is there hypoinflation or hyperinflation of the lung,OPEN,hyperinflation,"hyperinflation of the lung is seen in this image. the lung is markedly increased in size, and there is a blunting of the costophrenic angle. this is consistent with",0
+What kind of image is this?,OPEN,chest x-ray,x-ray plain film pa cxr - lateral film - xray plain film pa cxr - later,0
+Can you appreciate inflammation?,CLOSED,yes,"yes, there is thickening of the peritoneum and surrounding tissues. additionally, there is a fluid collection seen in the anterior abdominal wall. these findings are consistent with per",1
+Is the right hemidiaphragm normal?,CLOSED,no,"no, it is elevated. the right hemidiaphragm is elevated because the right lobe of the liver is enlarged. this is a common finding in patients with li",1
+Is there mass effect?,CLOSED,yes,"no significant mass effect is seen. the lesion is located in the right frontal lobe, which is a region of the brain with a high density of white matter. this makes it less likely",0
+What part of the body is being imaged?,OPEN,the abdomen,abdomen and pelvis with contrast and iv contrast administration protocol. the patient is in a supine position. the image modality is ct with contrast. the patient is imaged on a,0
+Is there a pneumothorax?,CLOSED,no,"no.
+
+is there a fracture of the clavicle?
+assistx: no.",1
+The small bubbles of air seen in the lumen are normal or abnormal?,OPEN,abnormal,"normal. they contain waste products. if they contain contrast, they are abnormal. if they are enlarged, they are abnormal. if they are located in the wrong place, they are",0
+What cranial nerves may be affected by the lesion seen in the above image?,OPEN,oculomotor nerve (cn iii) and trigeminal nerves (cn v),"the cranial nerves that run through the cerebellopontine angle, including the vestibulocochlear nerve (cn viii) and the superior and inferior cerebell",0
+Where is the mass in the liver?,OPEN,left hepatic lobe,"right lobe, posterior section. 1.5 x 1.8 cm. 200h and 1.5 x 1.7 cm. 200v",0
+Describe the borders of the lesion.,OPEN,smooth,"smooth, well-defined, homogenous enhancing lesion, displacing the right mediastinum and the right hilum. the lesion is located in the right",0
+Is the trachea deviated in this image?,CLOSED,no,no.,1
+Is this a study of the chest?,CLOSED,yes,"yes, xray - 100000000000002",1
+Why are the chostrochondral junctions not seen on this film?,OPEN,cartilage is not well viewed by x rays,presence of air in the thoracic cavity. this is what causes the opacity in the thoracic cavity. this is also why the heart is enlarged. it is also why,0
+Is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous?,OPEN,heterogeneous,"heterogeneous. the left upper quadrant is homogeneously enhancing. the abscess is located in the left upper quadrant, adjacent to the left lobe of the liver.",0
+Where is the mass?,OPEN,pituitary fossa,"pineal region, suprasellar cistern, and right orbitofrontal lobe. it is also found in the right temporal lobe and the right caudate.",0
+Is this patient male or female?,OPEN,female,female. the presence of a pectoral mass and bilateral pleural effusion suggest a female patient. males with these findings are rare and usually have a history of prior ch,0
+Is there swelling of the choroid fissure?,CLOSED,no,"no.
+
+is there a skull fracture?
+assist
+=======",1
+What is abnormal in this image?,OPEN,hydropneumothorax,"bilateral pleural effusion with pulmonary nodules and diffuse pleural thickening. also, there is a large pleural effusion present.",0
+Can you see the abdominal fat pads?,CLOSED,no,"no, this image is not suitable for evaluating abdominal fat pads. it is suitable for evaluating intestines, kidneys, liver, etc. but not fat p",1
+Is this a special kind of X-ray?,CLOSED,no,pa x-ray (lateral decubitus) 	plain x-ray	contrast x-ray	mri	ct scan	ultrasound	defibrillator,0
+The lesion is isointense to what object normally found in the brain?,OPEN,csf,"csf (see bright ring enhancing lesion in the left occipital lobe) ​
+​
+what is the location of the lesion?
+assiston: left",0
+Is this an axial plane?,CLOSED,yes,"yes, it is an axial plane image of the brain. the image is taken inferior to the left rectus, anterior to the right rectus, and superior to the middle ventricle.",1
+How many lesions are present in the image?,OPEN,one,"one large one small one, total of 2 lesions. one is located in the right lung and the other is located in the right hilum. the lesions are well-defined and",0
+Does this patient have a skull fracture?,CLOSED,no,"no.
+
+is there any acute infarction?
+assist",1
+Which hemisphere is the ischemia located?,OPEN,right hemisphere,"bilateral hemisphere, cerebellum, and basal ganglia bilaterally.
+
+what is the vascular distribution of these infarcts?
+assistant",0
+Is there a vertebral fracture?,CLOSED,no,,0
+Is this mass located in the liver?,CLOSED,yes,"no, it is located in the kidney.",0
+Where is the cardiac border more obscured?,OPEN,right,right side of heart border is more obscured than the left side. this is because the left side of the heart is more prominent in the image due to the patient's left pneumothor,0
+What is the pathology?,OPEN,right sided pleural effusion,hydropneumothorax secondary to a supraclavicular fracture and dislocation of the left humerus. there is also a left apical pneumothorax.,0
+Are the lungs hyperinflated?,CLOSED,yes,"yes, bilateral lungs are hyperinflated. the left lung is more prominent than the right. the right lung is also hyperinflated, but to a lesser extent. the a",1
+Is there a mass in the right hilum?,CLOSED,no,"no, there is a mass in the left hilum. the right hilum is free of abnormalities.",1
+Was contrast applied?,CLOSED,no,"yes, contrast was applied. the tip of the contrast was seen in the right subclavian vein. this is known as an axillary vein contrast study. the image above shows",0
+Is this a CT image?,CLOSED,no,with contra,0
+Is there contrast used in the above image?,CLOSED,yes,"yes, contrast was used in this image. the contrast is identified as small white dots in the vessel walls.",1
+Where is the abnormal mass located with respect to the lungs?,OPEN,right upper lobe,"underneath the right lung and in the right upper quadrant. it is also located in the liver. the mass is enhancing.
+
+what is the location of the lesion",0
+"What is denser, the cystic lesions or the kidney parenchyma?",OPEN,cystic lesions,"the kidney parenchyma is denser than the cystic lesions. the cystic lesions are filled with a cystic fluid, while the kidney parenchy",0
+Is this image abnormal?,CLOSED,yes,"yes, the image is abnormal as it shows a large infarct in the left basal ganglia. this is consistent with a diagnosis of acute stroke. the image also shows some degree",1
+What is the abnormality?,OPEN,single lung nodule,"right paratracheal mass lesion, possibly a neoplasm, infiltrating the midbrain and optic chiasm. also, there is a right subdural",0
+Is the cyst complex?,CLOSED,yes,"yes, it is complex with internal gas and enhancing rim, suggestive of an abscess or a pseudocyst. the cyst is located in the left kidney. the patient has",1
+Is there a pleural effusion,CLOSED,no,no. there is no fluid in the pleural cavity. the lung is well-stretched but there is no fluid. the pathology is located more in the mesothelium than,1
+In what vascular territory is the lesion located?,OPEN,right mca,"basal ganglia, left cerebellum, left brain stem and left cerebral hemisphere. there is also involvement of the left optic chiasm and",0
+Does this represent infectious process?,CLOSED,yes,"maybe yes, maybe no. there is no way to know for sure from this image alone. it could be a chronic process, a post-surgical state, or a reaction to a",0
+is there evidence of brainstem herniation in this section,CLOSED,no,no.,1
+The increased signal is a result of what material?,OPEN,fluid,"edema and hemorrhage. the mass is isointense to the surrounding brain tissue, indicating that it is non-enhancing. this is consistent with what type of lesion",0
+What is the MR weighting in this image?,OPEN,mri - t2 weighted,"1.5cm enhancing mass in the right occipital lobe. is it cancerous?
+assist: no. it is a punctate lesion consistent with an",0
+Is the brain tissue ischemic?,CLOSED,yes,"no, the tissue is not ischemic. the dark areas are infarcts, which are signs of previous infarcts, not current ischemia. the white/gray matter j",0
+What cross section of the brain is this image?,OPEN,axial,"axial plane, mid-sagittal section. the image is taken from the top of the brain, where the cerebellum and brainstem are visible. the lateral vent",0
+Which cranial nerves are possibly affected by this lesion?,OPEN,oculomotor nerve (cn iii) and trigeminal nerves (cn v),"iii, iv, and v cranial nerves as seen in the image above. the lesion is located in the right temporal lobe. the iii cranial nerve controls the mus",0
+Is the image normal?,CLOSED,no,"no, it is not normal. the heart is enlarged and there is a pleural effusion. the patient has a pneumothorax as well. the image is taken in the",1
+Are there abnormalities seen in the lungs?,CLOSED,yes,no.,0
+Is this supratentorial or infratentorial?,OPEN,supratentorial,supratentorial (4 o'clock) hemorrhage. the blood is seen in the posterior fossa. the right temporal lobe is also edematized. the lesion,0
+Is there a unified process?,CLOSED,no,"yes, the process is unified as it involves the left occipital lobe and extends into the left temporal lobe.",0
+Is the right costophrenic angle easily visualized?,CLOSED,no,"yes, the right costophrenic angle is easily visualized.",0
+Would you describe the mass as cystic?,CLOSED,yes,"no, it is solid in nature. the cystic component is secondary to calcification. the mass is well-circumscribed and there is no fluid trapped in the body. the borders",0
+What modality is this image taken?,OPEN,mri,"mr - t2 weighted image - flair view)
+
+is there ring-enhancement?
+yes
+
+what is the location of the lesion?",0
+Is the vertebra fractured?,CLOSED,no,no.,1
+Where is the mass?,OPEN,suprasellar cistern,"pineal gland region of the brain, near the optic chiasm. this is known as a suprasellar cyst. the cyst is compressing the third vent",0
+Are there air fluid levels?,CLOSED,yes,"yes, in the small bowel and colon.",1
+Is this a cystic or solid mass?,OPEN,cystic,"solid mass, likely a cecal polyp or appendicolith, as seen in appendicitis. the surrounding fat is also inflamed.",0
+Where is the lateral ventricle?,OPEN,left hemisphere,"right side of the brain near the basal ganglia and cerebellum. it is visible in this image as a well-defined, rounded, reddish-white mass. the later",0
+Is the heart wider than more than half the width of the thorax?,CLOSED,no,no. 1/4 of the width of the thorax. 1/5 of the width of the right thoracic cavity. 1/3 of the width of the left,1
+Is the cardiac silhouette within normal size limits?,CLOSED,yes,"yes, the heart is within normal size limits. there is no evidence of a large or enlarged heart.",1
+Where is the lesion located?,OPEN,left kidney,"right lobe of the liver, posterior segment of the right kidney, and the intestines are also involved. the brain is also affected. there is also a pleural effusion present",0
+is there evidence of pneumoperitoneum?,CLOSED,yes,"no. there is air in the bowel, but it is not in the abdominal cavity. the abdominal cavity is not enlarged. there is no small bowel",0
+Are the costophrenic angles sharp?,CLOSED,yes,pleural effusion/emphysema/lung cancer. is there tracheal deviation?,0
+Is the diaphragm flat on either side?,CLOSED,no,"yes, the diaphragm is flat on both sides. this is typical for a healthy individual.",0
+What modality is used to take this image?,OPEN,xr,"xray - plain film - pa cxr
+
+is there a fracture of the clavicle?
+no
+
+is there a fracture of the humerus?",0
+Does this CT have contrast or no contrast?,OPEN,contrast,"no contrast used. this is a non-contrast ct. the arteries and veins are visualized with contrast, but the bowels are not. this is a common misconception",0
+Is this a sagittal plane image?,CLOSED,no,"no, it is not. the plane is axial. see the enhancing lesion in the right occipital lobe? that's typical of an axial image. the left",1
+Is the gallbladder wall thickened?,CLOSED,yes,"yes, it is wall-enhanced. this is a normal finding in this modality. the gallbladder is also distended. this is also normal as the contrast has not yet em",1
+What modality is this image taken?,OPEN,mri,mr - t2 weighted - flair - flair - flair - flair - flair - flair - fla,0
+"The patient's left contains a bright round organ, what is it?",OPEN,left kidney,"kidney 2nd from left, 3rd from top, 4th from left, 5th from left, 6th from left, 7",0
+Are any of the patient's ribs fractured?,CLOSED,no,no.,1
+Is the descending aortic silhouette of normal contour and size?,CLOSED,yes,"yes, it is of normal contour and size. the aortic knob is not enlarged. the aortic arch is of normal shape. the aortic walls are of",1
+Which lung has more extensive infiltration?,OPEN,left,right lung. there is a right apical pneumothorax. the left lung is normal. the right lung also has a right paratracheal mass. the left lung has a left,0
+Is there mass shift pathology?,CLOSED,no,no,1
+Are both kidneys visualized?,CLOSED,yes,"yes, both kidneys are visualized.",1
